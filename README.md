@@ -4,9 +4,7 @@ This project is an AI-based Fake News Detector that focuses on political news fr
 
 ## Important Notice
 
-**Large File Notice:** Some files are not included in this repository because they exceed GitHub's file size limits. These files are essential for the full functionality of the project. You can download the missing files from the following links:
-
-- [True.csv] & [Fake.csv] https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets - 116.37 MB
+**Large File Notice:** Some files are not included in this repository because they exceed GitHub's file size limits. These files are essential for the full functionality of the project.
 - *[all_news.csv] is the combination of the true and fake news
 
 Please download these files and place them in the root directory of the project.
